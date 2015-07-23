@@ -33,7 +33,10 @@
       "xdescribe": false,
       "spyOn": false,
       "TreeNode": true,
-      "hasPathSum": true
+      "hasPathSum": true,
+      "Animal": true,
+      "Cat": true,
+      "Dog": true
     },
     "globalstrict": true,
     "devel": true,
