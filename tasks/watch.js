@@ -14,7 +14,7 @@ module.exports = {
   },
   unit: {
     files: [
-      'tests/unit/**/*.js'
+      'tests/unit/**/*.spec.js'
     ],
     tasks: [
       'jshint',

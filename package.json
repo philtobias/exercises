@@ -36,7 +36,8 @@
       "hasPathSum": true,
       "Animal": true,
       "Cat": true,
-      "Dog": true
+      "Dog": true,
+      "findMostFrequentValueInArray": true
     },
     "globalstrict": true,
     "devel": true,
