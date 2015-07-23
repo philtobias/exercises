@@ -38,7 +38,8 @@
       "Cat": true,
       "Dog": true,
       "findMostFrequentValueInArray": true,
-      "searchRotatedArray": true
+      "searchRotatedArray": true,
+      "LRU": true
     },
     "globalstrict": true,
     "devel": true,
