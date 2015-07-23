@@ -15,5 +15,5 @@ grunt
 ## Explanation of directories
 
 `src` - contains a folder for each algorithm or technique  
-`tasks` - grunt tasks for running unit tests, jshint, and simulating a server
+`tasks` - grunt tasks for running unit tests, jshint, and simulating a server  
 `tests` - unit tests for each file in `src`  
