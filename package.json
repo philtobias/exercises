@@ -39,7 +39,9 @@
       "Dog": true,
       "findMostFrequentValueInArray": true,
       "searchRotatedArray": true,
-      "LRU": true
+      "LRU": true,
+      "breadthFirstSearch": true,
+      "depthFirstSearch": true
     },
     "globalstrict": true,
     "devel": true,

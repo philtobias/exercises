@@ -5,7 +5,7 @@ module.exports = {
   },
   js: {
     files: [
-      '<%= pkg.config.buildDir %>/**/*.js',
+      '<%= pkg.config.buildDir %>/**/*.js'
     ],
     tasks: [
       'jshint',
