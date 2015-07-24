@@ -43,7 +43,8 @@
       "LRU": true,
       "breadthFirstSearch": true,
       "depthFirstSearch": true,
-      "binarySearch": true
+      "binarySearch": true,
+      "curryingAdd": true
     },
     "globalstrict": true,
     "devel": true,
