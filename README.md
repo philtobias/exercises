@@ -7,7 +7,6 @@ A collection of CS algorithms and techniques in Javascript.
 [install node](https://nodejs.org/download/)
 
 ```
-npm i grunt-cli -g
 npm i
 grunt
 ```
