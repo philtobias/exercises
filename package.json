@@ -42,7 +42,8 @@
       "searchRotatedArray": true,
       "LRU": true,
       "breadthFirstSearch": true,
-      "depthFirstSearch": true
+      "depthFirstSearch": true,
+      "binarySearch": true
     },
     "globalstrict": true,
     "devel": true,
