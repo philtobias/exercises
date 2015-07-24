@@ -23,4 +23,13 @@ module.exports = function(grunt, undefined) {
       'concurrent:development'
     ]
   );
+
+  grunt.registerTask(
+    'test',
+    'jshint, unit tests',
+    [
+      'jshint',
+      'jasmine:unit'
+    ]
+  );
 };
