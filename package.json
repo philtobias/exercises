@@ -44,7 +44,10 @@
       "breadthFirstSearch": true,
       "depthFirstSearch": true,
       "binarySearch": true,
-      "curryingAdd": true
+      "curryingAdd": true,
+      "skylineProblem": true,
+      "Building": true,
+      "Point": true
     },
     "globalstrict": true,
     "devel": true,
