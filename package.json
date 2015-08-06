@@ -49,7 +49,8 @@
       "Building": true,
       "Point": true,
       "Stack": true,
-      "Queue": true
+      "Queue": true,
+      "isPalindrome": true
     },
     "globalstrict": true,
     "devel": true,
