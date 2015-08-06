@@ -48,6 +48,8 @@
       "skylineProblem": true,
       "Building": true,
       "Point": true,
+      "Stack": true,
+      "Queue": true,
       "isPalindrome": true
     },
     "globalstrict": true,
