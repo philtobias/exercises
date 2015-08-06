@@ -50,7 +50,8 @@
       "Point": true,
       "Stack": true,
       "Queue": true,
-      "isPalindrome": true
+      "isPalindrome": true,
+      "parentContainsChild": true
     },
     "globalstrict": true,
     "devel": true,
