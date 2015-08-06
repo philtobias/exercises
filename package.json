@@ -47,7 +47,9 @@
       "curryingAdd": true,
       "skylineProblem": true,
       "Building": true,
-      "Point": true
+      "Point": true,
+      "Stack": true,
+      "Queue": true
     },
     "globalstrict": true,
     "devel": true,
