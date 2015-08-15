@@ -48,6 +48,7 @@
       "skylineProblem": true,
       "Building": true,
       "Point": true,
+      "funcRetry": true,
       "Stack": true,
       "Queue": true,
       "isPalindrome": true,
