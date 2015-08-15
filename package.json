@@ -47,7 +47,8 @@
       "curryingAdd": true,
       "skylineProblem": true,
       "Building": true,
-      "Point": true
+      "Point": true,
+      "funcRetry": true
     },
     "globalstrict": true,
     "devel": true,
