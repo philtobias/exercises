@@ -50,6 +50,7 @@
       "Point": true,
       "funcRetry": true,
       "Stack": true,
+      "LinkedListStack": true,
       "Queue": true,
       "isPalindrome": true,
       "parentContainsChild": true
