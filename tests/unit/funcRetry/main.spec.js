@@ -15,7 +15,7 @@ describe('funcRetry()', function() {
     expect(obj.callbackFunc).toHaveBeenCalled();
   });
 
-  xit('returns 0 after all retries', function() {
+  it('returns 0 after all retries', function() {
     expect(obj.funcRetry(3, function() {})).toBe(0);
     expect(obj.funcRetry(5, function() {})).toBe(0);
     expect(obj.funcRetry(1, function() {})).toBe(0);
