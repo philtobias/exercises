@@ -59,7 +59,7 @@ LRU.prototype.get = function(key) {
 
   if(node) {
     if(node === this.tail) {
-      return node;
+      return node.value;
     }
 
     if(node.newer) {
@@ -83,7 +83,7 @@ LRU.prototype.get = function(key) {
     this.tail = node;
   }
 
-  return node;
+  return node.value;
 };
 
 LRU.prototype.toString = function() {

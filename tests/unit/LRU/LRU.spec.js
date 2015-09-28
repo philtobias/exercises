@@ -64,10 +64,8 @@ describe('LRU', function() {
     });
 
     it('sets the new tail', function() {
-      var node = lru.get(3);
-      expect(node).toEqual(jasmine.any(Object));
-      expect(node.older).toEqual(jasmine.any(Object));
-      expect(node.newer).toBe(undefined);
+      var nodeVal = lru.get(3);
+      expect(nodeVal).toEqual(3);
       expect(lru.tail.key).toBe(3);
     });
   });
