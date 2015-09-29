@@ -53,7 +53,8 @@
       "LinkedListStack": true,
       "Queue": true,
       "isPalindrome": true,
-      "parentContainsChild": true
+      "parentContainsChild": true,
+      "linkedListHasLoop": true
     },
     "globalstrict": true,
     "devel": true,
